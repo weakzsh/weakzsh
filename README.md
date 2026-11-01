@@ -1,20 +1,21 @@
 # Hi there, I'm weakzsh 🖥️👋
 
-he/they | Just a guy messing around with code, crypto, and application security. 
+he/they | Just a guy trying to write code that doesn't immediately burst into flames.
 
-I love breaking things down, finding out how they work under the hood, and hunting for flaws. Moving away from the script-kiddie side of the internet to focus on actual security research, source code analysis, and doing responsible disclosure. 
-
----
-
-### 🚀 What I'm up to:
-* **Building `sleepy`** - A custom programming language I'm designing from scratch. The goal is to make it as expectable and readable as possible so it doesn't give you a headache.
-* **Breaking APIs** - Learning how to intercept requests, read source code, and find logic flaws or RCEs without blowing things up.
-* **Rebranding** - Trying to turn this GitHub profile from an absolute disaster zone into something halfway decent. 
+I like finding deep architectural flaws, breaking back-ends, and digging through source code. I recently realized that a career as a shady black-hat hacker offers zero retirement benefits, so I am officially using my powers for good now. No more digital chaos—just legal bounties and trying to get Discord to give me their legendary "awesome shtuff" profile badge.
 
 ---
 
-### 🛠️ Stuff I use:
-* **Languages:** Python, JS, and whatever I need to get the job done
-* **Tools:** Burp Suite, Git, Linux, and too much caffeine
+### 🚀 Ongoing Projects & Personal Delusions
+* **Building `sleepy`** - A custom programming language designed to feel like filling out boring paperwork, except it’s a normal interpreter. It's predictable, expectable, and messy (basically if Python and PHP had a child they didn't want). 
+* **Fixing this Profile** - Aggressively trying to rebrand this profile from a complete script-kiddie disaster zone into something that doesn't immediately terrify tech support teams or security triagers.
+* **Hacking Legally** - Learning the art of API breaking, source code auditing, and safe exploit construction. 
 
-Catch you around if you're looking through my repos! ✌️
+---
+
+### 🛠️ Technology Stack & Disasters
+* **Languages:** Python (I program in it daily but complain about it the entire time) and Lua 5.5 / Luau. That is literally it. Please do not show me an HTML tag or a JavaScript file, my eyes cannot handle the structural damage.
+* **Environments:** Windows 11 with a Fedora Subsystem, powered entirely by an RTX 3060 and pure stubbornness.
+* **Fonts:** JetBrains Mono (which looks beautiful everywhere except on YouTube for some reason).
+
+Catch you around if you're brave enough to look through my repositories! ✌️
