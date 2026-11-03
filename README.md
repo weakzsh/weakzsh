@@ -7,9 +7,7 @@ I like finding deep architectural flaws, breaking back-ends, and digging through
 ---
 
 ### 🚀 Ongoing Projects & Personal Delusions
-* **Building `sleepy`** - A custom programming language designed to feel like filling out boring paperwork, except it’s a normal interpreter. It's predictable, expectable, and messy (basically if Python and PHP had a child they didn't want). 
-* **Fixing this Profile** - Aggressively trying to rebrand this profile from a complete script-kiddie disaster zone into something that doesn't immediately terrify tech support teams or security triagers.
-* **Hacking Legally** - Learning the art of API breaking, source code auditing, and safe exploit construction. 
+  **`BleedRay` - A fork of Xray protocol which is powered by my own blood. And of course, enhanced protection.**
 
 ---
 
